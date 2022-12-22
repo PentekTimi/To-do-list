@@ -1,0 +1,4 @@
+/* create the style for the list item that is clicked and toggle between this style and default style  */
+.checked {
+    color: green;
+}
